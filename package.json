@@ -1,0 +1,20 @@
+{
+  "name": "validate-CSV-Json1",
+  "version": "1.0.0",
+  "description": "validate code",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aravindh-r/validate-CSV-Json1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aravindh-r/validate-CSV-Json1/issues"
+  },
+  "homepage": "https://github.com/Aravindh-r/validate-CSV-Json1#readme"
+}
